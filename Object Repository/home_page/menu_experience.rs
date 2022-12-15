@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_experience</name>
+   <tag></tag>
+   <elementGuidId>2c786f4f-2bfd-4e5d-8e64-b64b8e83a047</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-rb-event-key='/designexperience']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-rb-event-key='/designexperience']</value>
+      <webElementGuid>74dbe764-1e21-401d-bc29-88b7ae8cc601</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

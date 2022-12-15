@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_blog</name>
+   <tag></tag>
+   <elementGuidId>c1549527-c9a8-45a6-960e-588c341a0095</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-rb-event-key='/blog']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-rb-event-key='/blog']</value>
+      <webElementGuid>31ea3480-e65f-4e17-89d5-e886636185c7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

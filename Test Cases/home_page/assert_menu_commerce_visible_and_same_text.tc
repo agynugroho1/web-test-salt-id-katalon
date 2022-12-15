@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Assert menu commerce visible and same text</description>
+   <name>assert_menu_commerce_visible_and_same_text</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61f7ada3-3250-46fb-8410-06bb591416a7</testCaseGuid>
+</TestCaseEntity>

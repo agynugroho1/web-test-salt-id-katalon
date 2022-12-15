@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_talentAugment</name>
+   <tag></tag>
+   <elementGuidId>65c3eaf4-1235-4df8-bf03-4106439575f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-rb-event-key='/geekz']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-rb-event-key='/geekz']</value>
+      <webElementGuid>11fcd997-f8c5-4121-b56a-2834cd9b14f6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

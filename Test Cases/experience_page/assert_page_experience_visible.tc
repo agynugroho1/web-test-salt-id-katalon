@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>assert page experience is visible</description>
+   <name>assert_page_experience_visible</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d00a84ad-1c9b-49e5-b68e-259fe7fe1a2c</testCaseGuid>
+</TestCaseEntity>

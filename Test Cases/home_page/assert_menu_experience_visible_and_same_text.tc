@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Assert menu experience visible and same text with experience</description>
+   <name>assert_menu_experience_visible_and_same_text</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b43ea2a5-35c1-472f-8b6c-a361b6868117</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Assert menu blockchain visible and same text with Blockchain</description>
+   <name>assert_menu_blockchain_visible_and_same_text</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d3696ab-4d97-45da-bfe9-9e5575363788</testCaseGuid>
+</TestCaseEntity>

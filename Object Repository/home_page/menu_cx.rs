@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_cx</name>
+   <tag></tag>
+   <elementGuidId>42a6bcea-f392-43e0-845e-9a1a15ac7169</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-rb-event-key='/cx']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-rb-event-key='/cx']</value>
+      <webElementGuid>85807cac-f5cc-47d8-86b2-db149dbee17d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

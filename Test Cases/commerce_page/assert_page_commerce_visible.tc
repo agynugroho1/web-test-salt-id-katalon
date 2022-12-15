@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>assert page commerce is visible</description>
+   <name>assert_page_commerce_visible</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a2c288e-8355-47ea-a170-cb1990180e04</testCaseGuid>
+</TestCaseEntity>

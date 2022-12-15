@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User click logo salt</description>
+   <name>click_logo_salt</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ba58e0d-5280-46dc-9f86-279509ce8202</testCaseGuid>
+</TestCaseEntity>

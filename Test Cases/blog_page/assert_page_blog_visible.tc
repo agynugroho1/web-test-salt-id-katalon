@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Assert pageblog is visible</description>
+   <name>assert_page_blog_visible</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1cc14821-69dd-4e87-8fc9-226796904440</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Assert Page Technology Visible</description>
+   <name>assert_page_technology_visible</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9d9e9b6-a999-45da-8d88-8e9e479ad420</testCaseGuid>
+</TestCaseEntity>

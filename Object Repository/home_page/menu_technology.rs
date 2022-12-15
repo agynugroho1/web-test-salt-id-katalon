@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_technology</name>
+   <tag></tag>
+   <elementGuidId>43a6f859-98f9-4553-af43-e55fa4f7a9c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-rb-event-key='/technology']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-rb-event-key='/technology']</value>
+      <webElementGuid>800c206f-53c1-4ff2-a72f-6fd57ccd15e0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

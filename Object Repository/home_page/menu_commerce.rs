@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_commerce</name>
+   <tag></tag>
+   <elementGuidId>13c33326-04a4-4250-85d4-afd0d25bd154</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-rb-event-key='/commerce']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-rb-event-key='/commerce']</value>
+      <webElementGuid>1b0afa50-08f6-4312-8f0a-61e0f6361fc1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

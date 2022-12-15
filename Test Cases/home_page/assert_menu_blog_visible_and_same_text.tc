@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Assert menu blog is visible and same text with Blog</description>
+   <name>assert_menu_blog_visible_and_same_text</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af6402f4-ea53-4447-83af-810e593fa40d</testCaseGuid>
+</TestCaseEntity>

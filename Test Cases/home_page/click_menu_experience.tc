@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User click menu experience</description>
+   <name>click_menu_experience</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8b050f8-7d5c-4fc6-9356-fb8455e6b54b</testCaseGuid>
+</TestCaseEntity>

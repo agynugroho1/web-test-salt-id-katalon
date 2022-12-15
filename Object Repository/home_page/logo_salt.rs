@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>logo_salt</name>
+   <tag></tag>
+   <elementGuidId>811bdbe9-9d37-440e-9db2-07aa28bfb58d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/nav/a[1]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/nav/a[1]/img</value>
+      <webElementGuid>37d7c5d3-e237-481f-917c-318739d1cadb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
